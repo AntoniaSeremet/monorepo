@@ -1,0 +1,43 @@
+@import '../../styles/main.module.scss';
+
+.underlineWrapper {
+
+  display: inline-block;
+  position: relative;
+
+  &__childWrapper {
+    display: inline-block;
+  }
+
+  &__line {
+
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: rgba(117, 97, 97, 0.342);
+
+    &__selected {
+      position: absolute;
+      height: 2px;
+      background-color: $green_2;
+      transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
+  }
+}
+
+.triangle {
+  height: 0px;
+  width: 0px !important;
+  background-color: transparent;
+  border: 10px solid green;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-top-color: transparent;
+}
+
+// Dynamic color class definition
+@each $name, $value in $colors {
+  .backgroundColor#{$name} {
+    background-color: $value;
+  }
+}
