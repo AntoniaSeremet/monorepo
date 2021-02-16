@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "If you have 3+ years of ETL/ELT experience, Astronomer is looking for someone with your skillset."
 summaryBackup: "Astronomer is looking for a data engineer that has experience in: #operations, #python, #marketing."
 featured: 9
+archived: "true"
 ---
 
 ## Job description

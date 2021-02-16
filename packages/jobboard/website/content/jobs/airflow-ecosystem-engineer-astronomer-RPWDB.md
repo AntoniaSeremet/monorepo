@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "Astronomer intends to hire a new Airflow Ecosystem Engineer. If you have 2+ years of python experience, consider applying."
 summaryBackup: "Astronomer is looking for an airflow ecosystem engineer that has experience in: #python, #marketing, #terraform."
 featured: 5
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "If you have 5+ years of professional experience and at least 3+ years in-depth experience with Node, Astronomer has a job opening for a Sr. Backend Software Engineer"
 summaryBackup: "Astronomer is looking for a sr. software engineer that has experience in: #reactjs, #kubernetes, #git."
 featured: 4
+archived: "true"
 ---
 
 ## Job description

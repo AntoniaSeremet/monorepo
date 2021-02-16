@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "Magic Leap is looking for a Senior Technical Artist that has 5 or more years of experience in working on video games, film or similar industry."
 summaryBackup: "To apply as a senior technical artist at Current Job Openings at Magic Leap, Inc., you preferably need to have some knowledge of: #unity, #ui/ux, #content."
 featured: 10
+archived: "true"
 ---
 
 ## Job Description:

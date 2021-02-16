@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "Astronomer is searching for a Solutions Data Engineer that has 2-4 years of industry experience including some experience implementing Apache Airflow in a production environment."
 summaryBackup: "To apply as a solutions data engineer at Astronomer, you preferably need to have some knowledge of: #python, #terraform, #kubernetes."
 featured: 12
+archived: "true"
 ---
 
 ## Job description

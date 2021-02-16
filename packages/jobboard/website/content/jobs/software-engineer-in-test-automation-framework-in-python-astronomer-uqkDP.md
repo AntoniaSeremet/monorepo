@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "To apply as a Software Engineer at Astronomer, you preferably need to have 2+ years of professional experience developing software."
 summaryBackup: "Astronomer is looking for a software engineer in test that has experience in: #python, #kubernetes, #linux."
 featured: 7
+archived: "true"
 ---
 
 ## Job description

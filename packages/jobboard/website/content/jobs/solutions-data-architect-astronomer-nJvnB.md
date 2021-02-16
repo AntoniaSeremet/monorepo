@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "Astronomer wishes to hire a new Solutions Data Architect. If you have 5+ years experience implementing data solutions on cloud infrastructure, consider applying."
 summaryBackup: "To apply as a solutions data architect at Astronomer, you preferably need to have some knowledge of: #ui/ux, #terraform, #kubernetes."
 featured: 14
+archived: "true"
 ---
 
 ## Job description

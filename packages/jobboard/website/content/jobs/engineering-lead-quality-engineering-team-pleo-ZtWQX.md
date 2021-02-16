@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "If you have have broad experience in testing by building test automation solutions, metric systems, or improving testing effectiveness, Pleo has a job opening for an engineering lead."
 summaryBackup: "To apply as an engineering lead at Pleo, you preferably need to have some knowledge of: #java, #kotlin, #typescript."
 featured: 5
+archived: "true"
 ---
 
 ![Join us at Pleo!](https://i.imgur.com/BaX4y99.jpg)

@@ -12,6 +12,7 @@ companyWebsite: "https://boards.greenhouse.io/pleo"
 summary: "To apply as a Software Engineer at Pleo, you preferably need to have some knowledge of: #reactjs, #typescript, #css."
 summaryBackup: "Excited about #reactjs, #typescript, #css? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Smoke and mirrors.

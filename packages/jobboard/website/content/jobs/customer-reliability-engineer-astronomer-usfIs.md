@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "If you have 3-4 years of production infrastructure experience, Astronomer is looking for someone with your knowledge."
 summaryBackup: "To apply as a customer reliability engineer at Astronomer, you preferably need to have some knowledge of: #kubernetes, #python, #css."
 featured: 14
+archived: "true"
 ---
 
 ## Job description

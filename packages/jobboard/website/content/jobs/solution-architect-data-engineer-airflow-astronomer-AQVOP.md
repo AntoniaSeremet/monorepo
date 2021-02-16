@@ -13,6 +13,7 @@ companyWebsite: "http://www.astronomer.io/"
 summary: "Astronomer is looking for a Solution Architect that has experience in: #python, #terraform, #kubernetes."
 summaryBackup: "Astronomer is looking for a solution architect that has experience in: #sales, #python, #terraform."
 featured: 18
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/magicleapinc"
 summary: "If you have 7+ years of experience in software services development and productization, including 2+ years as technical/team lead in speech processing or related field, Magic Leap, Inc. is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #nodejs, #python? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job Description
