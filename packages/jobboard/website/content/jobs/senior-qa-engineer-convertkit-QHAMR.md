@@ -13,6 +13,7 @@ companyWebsite: "http://convertkit.com/"
 summary: "Interested in new opportunities and have 0significant experience in SaaS QA methodologies, tools and processes? ConvertKit has a job opening for a Senior QA Engineer."
 summaryBackup: "Excited about #css, #ui/ux, #marketing? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description

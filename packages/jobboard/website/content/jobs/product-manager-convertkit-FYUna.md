@@ -13,6 +13,7 @@ companyWebsite: "http://convertkit.com/"
 summary: "To apply as a Product Manager at ConvertKit, you preferably need to have experience in product management at a SaaS company."
 summaryBackup: "Love #management, #ui/ux, #marketing? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## Description

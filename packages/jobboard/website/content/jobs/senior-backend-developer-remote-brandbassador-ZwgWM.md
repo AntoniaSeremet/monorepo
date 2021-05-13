@@ -3,17 +3,16 @@ title: "Senior Backend Developer"
 location: "Remote"
 host: "https://team.brandbassador.com/jobs/"
 companyName: "Brandbassador"
-url: "https://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote"
-applyUrl: "https://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote/applications/new?"
-timestamp: 1614729600000
-hashtags: "#typescript,#nodejs,#kubernetes,#ui/ux,#branding,#googlecloud,#socialmedia,#couchbase,#analysis,#finance"
-jobType: "software"
+url: "http://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote"
+applyUrl: "http://team.brandbassador.com/jobs/1093472-senior-backend-developer-remote/applications/new?"
+timestamp: 1620777600000
+hashtags: "#typescript,#nodejs,#googlecloud,#socialmedia,#couchbase,#analysis,#finance"
+jobType: "other"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/brandbassador"
 companyWebsite: "http://www.brandbassador.com/"
-summary: "If you have significant experience delivering at a Senior Developer level in an enterprise environment, Brandbassador is looking for someone with your skillset."
-summaryBackup: "Brandbassador is looking for a senior backend developer that has experience in: #ui/ux, #branding, #typescript."
-featured: 4
-archived: "true"
+summary: "If you have 2 years and over $4 million in development costs to create what is now Brandbassador, Brandbassador is looking for someone with your knowledge."
+summaryBackup: "To apply as a senior backend developer at Brandbassador, you preferably need to have some knowledge of: #ui/ux, #branding, #typescript."
+featured: 20
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, Huel, Desenio and the list goes on. 

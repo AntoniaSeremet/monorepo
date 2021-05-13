@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "To apply as a Customer Success at Brandbassador, you preferably need to have at least 2-3 years of similar experience within a SaaS business or a proven track record in B2B account management."
 summaryBackup: "Love #branding, #marketing, #content? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 60 brands such as iDeal of Sweden, PopSockets, MVMT Watches, Huel, Fabletics and the list goes on. 

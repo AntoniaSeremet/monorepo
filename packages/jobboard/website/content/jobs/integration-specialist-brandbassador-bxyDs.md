@@ -13,6 +13,7 @@ companyWebsite: "http://www.brandbassador.com/"
 summary: "If you have knowledge and competence in API technology integration, Javascript, Node, SQL, HTML and CSS, consider applying to Brandbassador's job post for a new Integration Specialist."
 summaryBackup: "Brandbassador is looking for an integration specialist that has experience in: #branding, #marketing, #javascript."
 featured: 13
+archived: "true"
 ---
 
 Brandbassador is a platform that allows brands to scale and automate word-of-mouth ambassador marketing, and allows people to be an ambassador for their favourite brands and get perks, gift cards, cash and products in return. We currently work with over 100 brands such as iDeal of Sweden, PopSockets, Huel, Desenio and the list goes on. 
