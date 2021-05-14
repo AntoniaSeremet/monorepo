@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio wishes to hire a new Technical Docs Writer. If you have basic experience with WordPress or any previous project with it, consider applying."
 summaryBackup: "Excited about #wordpress, #javascript, #jquery? Check out this job post!"
 featured: 9
+archived: "true"
 ---
 
 ## About us

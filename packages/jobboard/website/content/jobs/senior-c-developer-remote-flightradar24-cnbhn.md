@@ -13,6 +13,7 @@ companyWebsite: "https://flightradar24.com/"
 summary: "Interested in new opportunities and have 4 years of professional development, ideally in online/web services environments and with similar tech stacks? Flightradar24 has a job opening for a senior c++ developer."
 summaryBackup: "Love #python, #ui/ux, #terraform? Check out this job post!"
 featured: 3
+archived: "true"
 ---
 
 Your work will improve the experience of millions of daily Flightradar24 users, as well as enable our business and enterprise customers to effectively integrate our aviation data and services with their businesses.

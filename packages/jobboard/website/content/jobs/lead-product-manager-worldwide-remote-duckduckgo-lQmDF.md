@@ -13,6 +13,7 @@ companyWebsite: "http://duckduckgo.com/"
 summary: "DuckDuckGo is searching for a Lead Product Manager that has 10+ years of experience, including 4+ years in leadership roles related to product development/management."
 summaryBackup: "To apply as a lead product manager at DuckDuckGo, you preferably need to have some knowledge of: #management, #translation, #office."
 featured: 7
+archived: "true"
 ---
 
 We are a diverse, fully distributed team from around the world, working toward a shared vision to raise the standard of trust online.

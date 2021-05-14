@@ -13,6 +13,7 @@ companyWebsite: "https://careers.vertistudio.com/"
 summary: "VertiStudio wishes to hire a new Junior Support Engineer. If you have basic experience with WordPress, consider applying."
 summaryBackup: "VertiStudio is looking for a junior support engineer that has experience in: #wordpress, #javascript, #jquery."
 featured: 13
+archived: "true"
 ---
 
 ## About us
