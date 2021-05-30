@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "If you have at least one experience in SaaS or software selling, Urbantz is looking for someone with your knowledge."
 summaryBackup: "To apply as a sales development representative at Urbantz, you preferably need to have some knowledge of: #sales, #css, #marketing."
 featured: 6
+archived: "true"
 ---
 
 Do you want to work to make an impact?

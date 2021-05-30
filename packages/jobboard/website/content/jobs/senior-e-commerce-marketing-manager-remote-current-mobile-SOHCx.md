@@ -13,6 +13,7 @@ companyWebsite: "https://boards.greenhouse.io/embed/job_board?for=currentmedia"
 summary: "Interested in new opportunities and have 3 years working in B2C E-commerce, DTC, or subscription-based marketing? Current Mobile has a job opening for a Senior E-Commerce Marketing Manager."
 summaryBackup: "To apply as a senior e-commerce marketing manager at Current Mobile, you preferably need to have some knowledge of: #marketing, #analysis, #content."
 featured: 15
+archived: "true"
 ---
 
 ## What is Current?

@@ -13,6 +13,7 @@ companyWebsite: "https://scopicsoftware.com/"
 summary: "Scopic wishes to hire a new mobile developer. If you have 2+ years professional experience in mobile software development, consider applying."
 summaryBackup: "To apply as a remote mobile developer at Scopic, you preferably need to have some knowledge of: #reactjs, #java, #swift."
 featured: 18
+archived: "true"
 ---
 
 Scopic is seeking a skilled Remote Mobile Developer to join our team of 250+ professionals in over 40 countries. This is a full-time, home-based position.

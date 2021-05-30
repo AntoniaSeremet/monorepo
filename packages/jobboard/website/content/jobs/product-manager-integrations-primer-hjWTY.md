@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Primer intends to hire a new Product Manager. If you have experience working with small product delivery teams managing roadmaps, product specs, and all accompanying tasks, consider applying."
 summaryBackup: "Primer is looking for a product manager that has experience in: #management, #office."
 featured: 13
+archived: "true"
 ---
 
 ## Description

@@ -13,6 +13,7 @@ companyWebsite: "https://primer.io/"
 summary: "Interested in new opportunities and have previous experience in a pre-sales role with a complex API product, ideally in payments? Primer has a job opening for a Sales Engineer."
 summaryBackup: "Primer is looking for a sales engineer that has experience in: #sales, #marketing, #translation."
 featured: 9
+archived: "true"
 ---
 
 ## Description

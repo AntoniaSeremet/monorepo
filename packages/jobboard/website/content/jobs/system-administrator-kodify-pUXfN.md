@@ -13,6 +13,7 @@ companyWebsite: "https://kodify.io/"
 summary: "Kodify is looking for a System Administrator that has experience in high traffic environments."
 summaryBackup: "Excited about #javascript, #python, #golang? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 ## Job description

@@ -13,6 +13,7 @@ companyWebsite: "https://plural.ai/"
 summary: "If you have experience working with company leadership and other stakeholders e.g. to set goals and priorities, Plural AI is looking for someone with your knowledge."
 summaryBackup: "Love #reactjs, #python, #management? Check out this job post!"
 featured: 15
+archived: "true"
 ---
 
 ## Job description

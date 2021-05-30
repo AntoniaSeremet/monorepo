@@ -13,6 +13,7 @@ companyWebsite: "https://urbantz.com/"
 summary: "Urbantz is looking for a Sales Sevelopment Representative that has 3 to 6 years of prospecting experience and a a track record of performance in a previous similar role."
 summaryBackup: "To apply as a sales development representative at Urbantz, you preferably need to have some knowledge of: #sales, #css, #marketing."
 featured: 11
+archived: "true"
 ---
 
 ## Do you want to work to make an impact?

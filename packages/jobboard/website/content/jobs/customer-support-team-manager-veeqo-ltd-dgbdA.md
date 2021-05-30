@@ -13,6 +13,7 @@ companyWebsite: "https://www.veeqo.com/"
 summary: "If you have multiple years of experience working in a customer support role, with progressive experience in managing teams, Veeqo is looking for someone with your knowledge."
 summaryBackup: "Veeqo-ltd is looking for a customer support team manager that has experience in: #management, #operations, #css."
 featured: 7
+archived: "true"
 ---
 
 ## Job Overview:

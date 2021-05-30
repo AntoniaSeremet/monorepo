@@ -13,6 +13,7 @@ companyWebsite: "https://plural.ai/"
 summary: "Plural AI is looking for a Product Designer that has experience in: #ui/ux, #branding, #office."
 summaryBackup: "To apply as a product designer at Plural AI, you preferably need to have some knowledge of: #ui/ux, #branding, #office."
 featured: 7
+archived: "true"
 ---
 
 ## Job description

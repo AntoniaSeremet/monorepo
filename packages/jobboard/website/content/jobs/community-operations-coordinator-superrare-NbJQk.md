@@ -13,6 +13,7 @@ companyWebsite: "https://superrare.breezy.hr/"
 summary: "SuperRare is looking for a Community Operations Coordinator that has experience with crypto or desire to learn avidly about these technologies."
 summaryBackup: "Excited about #operations, #socialmedia, #content? Check out this job post!"
 featured: 16
+archived: "true"
 ---
 
 ## About SuperRare

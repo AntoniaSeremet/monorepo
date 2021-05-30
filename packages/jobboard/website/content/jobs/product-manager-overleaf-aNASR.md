@@ -13,6 +13,7 @@ companyWebsite: "https://www.overleaf.com/"
 summary: "If you have a minimum of 2–3 years of relevant experience, Overleaf is looking for someone with your knowledge."
 summaryBackup: "Love #css, #marketing, #analytics? Check out this job post!"
 featured: 8
+archived: "true"
 ---
 
 ## Description

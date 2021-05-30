@@ -13,6 +13,7 @@ companyWebsite: "https://www.overleaf.com/"
 summary: "If you have previous working experience within a marketing role for 3+ years, consider applying to Overleaf's job post for a new Institutional Marketing Manager."
 summaryBackup: "Love #marketing, #sales, #css? Check out this job post!"
 featured: 13
+archived: "true"
 ---
 
 ## Description
