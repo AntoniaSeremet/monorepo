@@ -13,6 +13,7 @@ companyWebsite: "https://www.sherpany.com/en/"
 summary: "Sherpany intends to hire a new Frontend Engineer. If you have experience with React and state management libraries, consider applying."
 summaryBackup: "Sherpany is looking for a frontend engineer that has experience in: #javascript, #reactjs, #css."
 featured: 7
+archived: "true"
 ---
 
 

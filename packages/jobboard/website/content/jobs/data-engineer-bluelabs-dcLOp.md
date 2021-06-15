@@ -13,6 +13,7 @@ companyWebsite: "https://www.bluelabs.eu/"
 summary: "BlueLabs is searching for a data engineer that has 2+ years of software engineering experience."
 summaryBackup: "Love #python, #golang, #swift? Check out this job post!"
 featured: 20
+archived: "true"
 ---
 
 ## Job description
