@@ -7,7 +7,7 @@ url: "https://hometime.bamboohr.com/jobs/view.php?id=78&source=other"
 applyUrl: "https://hometime.bamboohr.com/jobs/view.php?id=78&source=other"
 timestamp: 1623369600000
 hashtags: "#reactjs,#javascript,#rails,#ui/ux,#management,#branding,#scrum,#rest"
-jobType: "other"
+jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/hometime"
 companyWebsite: "https://hometime.bamboohr.com/jobs/"
 summary: "If you have 2+ years as a JS developer with focused in React, consider applying to Hometime's job post for a new web developer."

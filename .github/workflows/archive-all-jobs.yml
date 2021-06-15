@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-    - name: Get new jobs posts
+    - name: Archive jobs
       uses: crocoder-dev/crocoder-jobboard-action@master
       with:
         author-name: ${{ secrets.BOT_NAME }}
@@ -17,4 +17,4 @@ jobs:
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
         starting-branch: development
         command: 'ARCHIVE_ALL'
-        asignees: 'DanijelPlese'
+        asignees: 'davidabram'
