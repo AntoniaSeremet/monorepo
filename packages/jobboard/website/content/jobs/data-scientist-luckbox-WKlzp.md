@@ -13,6 +13,7 @@ companyWebsite: "https://luckbox.com/"
 summary: "Luckbox is searching for a Data Scientist that has demonstrable experience building and implementing analytical models, predictions and machine learning principles."
 summaryBackup: "Excited about #analysis, #cad, #scrum? Check out this job post!"
 featured: 7
+archived: "true"
 ---
 
 

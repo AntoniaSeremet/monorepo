@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "Interested in new opportunities and have experience with running selection processes? Sketch has a job opening for a People Operations Partner."
 summaryBackup: "Sketch is looking for a people operations partner that has experience in: #operations, #management, #branding."
 featured: 10
+archived: "true"
 ---
 
 We are currently searching for a new People Operations team member — preferably based in European time zones — to join us at Sketch. We’re a successful remote company, growing fast, with an amazing history and a People Ops department where the potential is huge. Does this sound like a challenge you are looking for?

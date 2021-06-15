@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have professional Mac development work experience, Sketch is looking for someone with your knowledge."
 summaryBackup: "Love #ui/ux, #swift, #objectivec? Check out this job post!"
 featured: 10
+archived: "true"
 ---
 
 Sketch is a design platform with an award-winning native Mac app and browser-based collaboration tools. Over a million people use our product to create their best work. And right now, we’re looking for Mac developers to join us.

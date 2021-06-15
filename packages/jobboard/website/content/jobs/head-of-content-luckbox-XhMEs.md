@@ -13,6 +13,7 @@ companyWebsite: "https://luckbox.com/"
 summary: "If you have seasoned experience of developing content strategies and curating content for our demographic of users in heavily regulated, international digital environments, consider applying to Luckbox's job post for a new Head of Content."
 summaryBackup: "Excited about #marketing, #content, #management? Check out this job post!"
 featured: 11
+archived: "true"
 ---
 
 ## Job description

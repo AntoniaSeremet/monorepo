@@ -16,4 +16,4 @@ jobs:
         jobboard-api: ${{ secrets.JOBBOARD_API_URL }}
         jobboard-token: ${{ secrets.JOBBOARD_AUTH_TOKEN }}
         starting-branch: development
-        asignees: 'DanijelPlese'
+        asignees: 'davidabram'

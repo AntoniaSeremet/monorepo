@@ -1,0 +1,80 @@
+.supported {
+  position: fixed;
+}
+
+.logo {
+  transition: filter 0.3s;
+  filter: grayscale(0.8);
+}
+
+.logo:hover {
+  filter: none;
+}
+
+.layout {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.topRow {
+  display: grid;
+}
+
+.title {
+  margin: auto;
+}
+
+@media screen and (max-width: 767px) {
+  .title {
+    font-size: 28px;
+  }
+
+  .layout {
+    background-color: red;
+    padding: 0 20px;
+  }
+
+  .supported {
+    right: 20px;
+    bottom: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .title {
+    font-size: 36px;
+  }
+
+  .layout {
+    background-color: blue;
+    padding: 0 30px;
+  }
+
+  .supported {
+    right: 30px;
+    bottom: 30px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .topRow {
+    grid-column-gap: 40px;
+  }
+
+  .title {
+    font-size: 42px;
+  }
+
+  .layout {
+    background-color: green;
+    max-width: 1024px;
+    margin: auto;
+    padding: 0 40px;
+  }
+
+  .supported {
+    right: 40px;
+    bottom: 40px;
+  }
+}

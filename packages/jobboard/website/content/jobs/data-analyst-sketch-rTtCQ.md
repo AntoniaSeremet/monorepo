@@ -13,6 +13,7 @@ companyWebsite: "http://www.sketch.com/"
 summary: "If you have 1-3 years of relevant working experience, Sketch is looking for someone with your skillset."
 summaryBackup: "Sketch is looking for a data analyst that has experience in: #marketing, #analysis, #ui/ux."
 featured: 6
+archived: "true"
 ---
 
 Over a million designers use Sketch to transform their ideas into incredible products every day. Want to join and help take our analytics team to the next level? 
