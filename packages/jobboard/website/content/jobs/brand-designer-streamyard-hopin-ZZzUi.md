@@ -6,7 +6,7 @@ companyName: "Hopin"
 url: "https://boards.greenhouse.io/hopin/jobs/4545360003?t=02952e2a3us"
 applyUrl: "https://boards.greenhouse.io/hopin/jobs/4545360003?t=02952e2a3us#app"
 timestamp: 1625443200000
-hashtags: "#marketing,#branding,#management,#ui/ux,#socialmedia,#content,#photoshop,#innovation,#communication,#css"
+hashtags: "#marketing,#branding,#ui/ux,#socialmedia,#content,#photoshop,#innovation,#communication,#css"
 jobType: "other"
 
 companyWebsite: "https://boards.greenhouse.io/hopin?t=02952e2a3us"
